@@ -1,0 +1,40 @@
+🚀 QUICK UPLOAD TO GITHUB - 2 MINUTES
+==========================================
+
+STEP 1: Create Repository (30 seconds)
+---------------------------------------
+1. Go to: https://github.com/new
+2. Repository name: AutoFlow-Hub-AIAgents
+3. Description: The world's most comprehensive n8n AI agents collection
+4. Public repository
+5. Don't check any boxes
+6. Click "Create repository"
+
+STEP 2: Upload This Folder (1 minute)
+--------------------------------------
+1. Click "uploading an existing file" link
+2. Drag this entire folder into the upload area
+3. Commit message: "Initial commit: AutoFlow Hub AI Agents"
+4. Click "Commit changes"
+
+STEP 3: Add Topics (30 seconds)
+--------------------------------
+1. Click gear icon next to "About"
+2. Add topics: n8n, automation, ai-agents, workflows, no-code
+3. Save changes
+
+DONE! ✅
+--------
+Your repository will be live at:
+https://github.com/hakmas1010/AutoFlow-Hub-AIAgents
+
+SHARE IT:
+---------
+LinkedIn: "Just launched AutoFlow Hub - 2,355+ n8n workflows!"
+Twitter: "🚀 AutoFlow Hub is live! 2,355+ AI automation workflows"
+Reddit: Post in r/n8n, r/automation, r/SideProject
+
+==========================================
+Created for: Aditya Dubey
+Date: May 2026
+==========================================
