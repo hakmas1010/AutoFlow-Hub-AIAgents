@@ -51,7 +51,7 @@ Setting up 11,355 workflows is a daunting task. That's why we offer **Managed Ho
 
 | Service Tier | Best For | What's Included |
 | :--- | :--- | :--- |
-| **Full Collection** | Developers | All 2,355+ JSON files for self-hosting. |
+| **Full Collection** | Developers | All 11,355+ JSON files for self-hosting. |
 | **Managed Growth** | Small Businesses | 10+ workflows hosted & managed by our team. |
 | **Enterprise AI** | Scale-ups | Custom agent development + full infra setup. |
 
