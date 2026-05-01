@@ -7,7 +7,7 @@
 ![Hosting](https://img.shields.io/badge/Hosting-24/7_Managed-9C27B0?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Enterprise_Ready-success?style=for-the-badge)
 
-**AutoFlow Hub** is the world's most comprehensive collection of **2,355+ professionally crafted n8n workflows** and **160+ Premium AI Agent blueprints**. We provide the high-level intelligence and infrastructure your business needs to dominate in the AI era.
+**AutoFlow Hub** is the world's most comprehensive collection of **2,355+ professionally crafted n8n workflows** and **11,160+ Premium AI Agent blueprints**. We provide the high-level intelligence and infrastructure your business needs to dominate in the AI era.
 
 ---
 
@@ -39,7 +39,7 @@ We have categorized our collection into specialized "Worker Squads" to handle ev
 
 ## ☁️ Managed Hosting & 24/7 Setup
 
-Setting up 2,350 workflows is a daunting task. That's why we offer **Managed Hosting**.
+Setting up 11,355 workflows is a daunting task. That's why we offer **Managed Hosting**.
 
 *   **Dedicated Private Servers:** No shared resources. Your automations run on high-performance private cloud instances.
 *   **Full API Handshake:** We handle the complex OAuth, API Key, and Webhook configurations for you.
@@ -69,5 +69,5 @@ This repository is a **Showcase Catalog**. The proprietary source code is provid
 ---
 <p align="center">
   <b>Fueling the Autonomous Business Revolution.</b><br>
-  <sub>Built with ❤️ by Aditya Dubey</sub>
+  <sub>Built with 🔥 by Aditya Dubey</sub>
 </p>
